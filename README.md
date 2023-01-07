@@ -1,7 +1,11 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello!+Welcome+to+my+github+profile)](https://git.io/typing-svg)
-- 👋 Hi, I’m @shahanic a **computer science** student
-- 👀 I’m interested in learning new things
-- 🌱 I’m currently learning **phyton**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=250&color=1EDF1C&repeat=false&width=750&lines=Hi+there!+Welcome+to+my+Github+Profile.)](https://git.io/typing-svg)
+- 👋 I am Shahani Callueng a **computer science** student at MMSU
+
+
+- 👀 I don't have much experience in programming but I am eager to learn.
+- 🐍 Currently learning **phyton**.
+- 🎨 Making **arts** is what I do on break but it does not mean I am good at it.
+- ☕ coffee? always.
 
 
 <!---
