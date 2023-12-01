@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=2000&color=1EDF1C&width=750&lines=Hi+there!+Welcome+to+my+github+Profile.)](https://git.io/typing-svg)
-- 👋 I am Shahani Callueng a **computer science** student at MMSU
+- 👋 I am Shahani Callueng a third year **computer science** student at MMSU.  
 
 
 - 👀 I don't have much experience in programming but I am eager to learn.
